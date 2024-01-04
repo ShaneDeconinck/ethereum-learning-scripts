@@ -1,0 +1,29 @@
+{
+  "name": "ethereum-learning-scripts",
+  "version": "1.0.0",
+  "description": "Scripts to facilitate learning the nuts and bolts behind Ethereum",
+  "main": "\"\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaneDeconinck/ethereum-learning-scripts.git"
+  },
+  "keywords": [
+    "ethereum"
+  ],
+  "author": "Shane Deconinck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaneDeconinck/ethereum-learning-scripts/issues"
+  },
+  "homepage": "https://github.com/ShaneDeconinck/ethereum-learning-scripts#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^6.9.2",
+    "secp256k1": "^5.0.0"
+  },
+  "devDependencies": {}
+}
